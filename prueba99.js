@@ -21,5 +21,4 @@ let server = http.createServer(function(req,res){
 	res.end();
 });
 
-setTimeout(function1, 2);
-server.listen(8101);
+server.listen(80);
