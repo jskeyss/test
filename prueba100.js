@@ -1,6 +1,6 @@
 const net = require('net');
 
-console.log('hola carola como va todo');
+console.log('hola carola como va todo 2');
 
 
 
@@ -12,4 +12,4 @@ let server = net.createServer(function(socket){
 });
 
 
-server.listen(8101);
+server.listen(3001);
